@@ -48,9 +48,17 @@ Starting so late in the day we planned to break the first leg of our journey ove
 
 Here is where I made a dangerous mistake that affected everyone for the next three days. Having already drunk a lot of water, and already having a very heavy rucksack (25kg+), I only filled up my bottles with three litres of water - two litres for the ascent this evening and afternoon, then a litre for the descent into Hadash. This was absolutely moronic. 
 
-The 28°C heat, weight of my pack, a total lack of sleep on the plane the night before, and generally poor fitness began to compound into fatigue, and after a couple of hours I was badly lagging behind the fit and nimble Frederic and Lukas. As night began to fall we were far short of where we wanted to be and had to camp amongst a steep boulder field.
+The track from the wadi up the mountain was challenging but very beautiful. Birdlife included **Pale Crag Martin _Ptyonoprogne obsoleta_**, **Desert Lark _Ammomanes deserti_**, and **Arabian Green Bee-eater _Merops cyanophrys_**, as well as a **Long-billed Pipit _Anthus similis_**, which I was very pleased to see.
 
-Despite our poor position this was a very beautiful camp, and once the sun set we were bathed in bright moonlight. I amazed by how bright the moon is in Arabia. While wearing a headtorch was still prudent to avoid falls, in moonlight it was largely unnecessary. Once darkness fell 
+However the 28°C heat, weight of my pack, a total lack of sleep on the plane the night before, and generally poor fitness began to compound into fatigue, and after a couple of hours I was badly lagging behind the fit and nimble Frederic and Lukas. As night began to fall we were far short of where we wanted to be and had to camp amongst a steep boulder field.
 
-![View from near the top of our scramble, looking down to the savannah plateau.](https://jewh2.github.io/images/2025oman/P2060011.JPG)
+Despite our poor position this was a very beautiful camp, and once the sun set we were bathed in bright moonlight. I amazed by how bright the moon is in Arabia. While wearing a headtorch was still prudent to avoid falls, in moonlight it was largely unnecessary. Once darkness fell a **Pallid Scops owl _Otus brucei_** started its 'hoo!-hoo!-hoo!-' call from somewhere down in the wadi. 
+
+The next day was a truly beautiful dawn and we were awoken by the raucous calls of **Grey francolin _Ortygornis pondicerianus_** and the more pleasant song of the **Sand partridge _Ammoperdix heyi_** - the latter a real boost to morale as it was a species I had wanted to see.
+
+However any boost to morale was soon deflated upon checking my water supplies. In the heat of yesterday, and being ill-disciplined, I had drunk most of my three litres of water and had a mere 500 mL left for our long climb and descent into Hadash. With hindsight I'm not sure whether rationing water or drinking it as I had the day before would have been the better option. I was sweating horrendously in the walk up to camp the day before and had reasoned that water was probably better use in my body than on my pack in such circumstances.
+
+
+
+![View from near the top of our scramble, looking down to the savannah plateau.](https://jewh2.github.io/images/2025oman/P2070011.JPG)
 
