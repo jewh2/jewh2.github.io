@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Employment
+Employment ⚒️
 ---
 * Postdoctoral research associate, Department of Genetics, University of Cambridge (2025-Present)
 * Postdoctoral research associate, Department of Biology, University of Oxford (2025)
 
-Education
+Education 🎓
 ---
 
 * DPhil Zoology, Merton College, University of Oxford (2020-2025)
