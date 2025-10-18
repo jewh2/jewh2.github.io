@@ -11,13 +11,16 @@ redirect_from:
 
 Employment
 ---
+* Postdoctoral research associate, Department of Genetics, University of Cambridge (2025-Present)
+* Postdoctoral research associate, Department of Biology, University of Oxford (2025)
 
 Education
 ---
-* BSc (Hons) Biology and Mathematics, University of St Andrews, 2016-2020
-* DPhil Zoology, University of Oxford, 2020-2024
 
-Awards
+* DPhil Zoology, Merton College, University of Oxford (2020-2025)
+* BSc (Hons) Biology and Mathematics, University of St Andrews (2016-2020)
+
+Scholarships & Awards
 ---
 
 Publications
