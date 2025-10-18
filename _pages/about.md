@@ -10,16 +10,16 @@ redirect_from:
 Research
 ----
 
-Living things strike a balance between being both robust and flexible. To survive, living systems have to be robust against perturbations from their environment, and against mutation, as most mutations are deleterious. Simultaneously, for life to survive its changing environment, it must be capable of changing and evolving. I find the balance between these seemingly contradictory things very beautiful, and I research how organisms achieve this balance and how it arises in evolution.
+Living things strike a balance between being both robust and flexible. To survive, living systems have to be robust against perturbations from their environment, and against mutation, as most mutations are deleterious. Simultaneously, for life to survive its changing environment, it must be capable of changing and evolving. I find the balance between these seemingly contradictory things very beautiful, and I research how organisms achieve this balance, and how it arises in evolution.
 
-Flies, Embryos, and Mathematics
+Embryos and Mathematics
 ---
 
-In my research with Dr Erik Clark's group at the University of Cambridge, I am exploring the 
+Embryos, besides being beautiful in their own right, exhibit all of the above properties, and hold an important place within evolutionary biology. 
 
 Contact
 ----
-You can contact me via email at jh2046[at]cam.ac.uk, and follow me on Bluesky at @jamesehammond.bsky.social.
+You can contact me via email at jh2046[at]cam.ac.uk, and follow me on Bluesky at [@jamesehammond.bsky.social](https://bsky.app/profile/jamesehammond.bsky.social).
 
 <!-- A data-driven personal website
 ======
