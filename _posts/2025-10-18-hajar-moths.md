@@ -44,7 +44,7 @@ It was mid-morning on the 6th of February when we assembled together in Muscat a
 ![The starting point of our Hajar adventure, the wadi entrance at Al Afyah.](https://jewh2.github.io/images/2025oman/P2060003.JPG)
 *The starting point of our Hajar adventure, the wadi entrance at Al Afyah.*
 
-Starting so late in the day we planned to break the first leg of our journey over two days, camping somewhere up near the top of our 1400 m ascent to the ridge where we then descend 600 m to the village of Hadash in the spectacular Al Gubbrah bowl. Notably there is no water source along this path, so we had to be prepared for two days without resupply.
+Starting so late in the day we planned to break the first leg of our journey over two days, camping somewhere up near the top of our 1400 m ascent to the ridge where we then descend 600 m to the village of Hadash in the spectacular Al Ghubrah bowl. Notably there is no water source along this path, so we had to be prepared for two days without resupply.
 
 Here is where I made a dangerous mistake that affected everyone for the next three days. Having already drunk a lot of water, and already having a very heavy rucksack (25kg+), I only filled up my bottles with three litres of water - two litres for the ascent this evening and afternoon, then a litre for the descent into Hadash. This was absolutely moronic. 
 
@@ -56,9 +56,21 @@ Despite our poor position this was a very beautiful camp, and once the sun set w
 
 The next day was a truly beautiful dawn and we were awoken by the raucous calls of **Grey francolin _Ortygornis pondicerianus_** and the more pleasant song of the **Sand partridge _Ammoperdix heyi_** - the latter a real boost to morale as it was a species I had wanted to see.
 
-However any boost to morale was soon deflated upon checking my water supplies. In the heat of yesterday, and being ill-disciplined, I had drunk most of my three litres of water and had a mere 500 mL left for our long climb and descent into Hadash. With hindsight I'm not sure whether rationing water or drinking it as I had the day before would have been the better option. I was sweating horrendously in the walk up to camp the day before and had reasoned that water was probably better use in my body than on my pack in such circumstances.
+However any boost to morale was soon deflated upon checking my water supply. In the heat of yesterday, and being ill-disciplined, I had drunk most of my three litres of water and had a mere 500 mL left for our long climb and descent into Hadash. With hindsight I'm not sure whether rationing water or drinking it as I had the day before would have been the better option. I was sweating horrendously in the walk up to camp the day before and had reasoned that water was probably better use in my body than on my pack in such circumstances.
 
+Frederic and Lukas recognised the seriousness of the situation too, and to prevent us having to spend another night without a water source, they very kindly offered to take some of my luggage with them for this part of the journey, so as to make sure we all got to Hadash that evening. This helped a lot and by about midday we arrived at the base of the final scramble over the ridge to Hadash. By now I had drunk all my water and Frederic and Lukas were kindly sharing their responsibly rationed supplies with me.
 
+However a brief boost to morale was afforded by us reaching a shaded plateau at the base of this scamble, with long flowing grass. The habitat was amazing and can best be described as some sort of _Olea_ woodland-savannah. This would have made for a perfect camp site - as evidenced by a recently used firepit and small shelters constructed by overnighting goatherds. Alas we had to leave this little garden and carry on over the mountain to Hadash.
 
 ![View from near the top of our scramble, looking down to the savannah plateau.](https://jewh2.github.io/images/2025oman/P2070011.JPG)
+*View looking east from approximately halfway up the final scramble (approx 2000 m). The small savannah plateau can be seen below.*
+
+The scramble up was tough but by about 1400 we had reached the top of the col and were now looking into the immense Al Ghubrah bowl, one of the best views I'd seen in a long time. On the scramble up, we were joined by **Black redstarts _Phoenicurus ochruros_**, handsome **Hume's wheatears _Oenanthe albonigra_**, and at the very top of the scramble, rewarded by a close and slow fly-by of a **Bonnelli's eagle _Aquila fasciata_** cruising along the ridgeline.
+
+![View looking NW into Al Ghubrah bowl.](https://jewh2.github.io/images/2025oman/P2070016.JPG)
+*View looking north west from the top of the ridge into Al Ghubrah bowl. Omani owl country.*
+
+
+
+Day 3 coming soon...
 
