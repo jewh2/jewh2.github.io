@@ -81,4 +81,5 @@ I have to say this is one of the most fun routes I've ever done, and would love 
 We went back to camp and ate in the dark, then hastily made our beds and went to sleep. The cliffs around Hadash look perfect Omani owl habitat, but sadly I was too tired to conduct any kind of survey. I slipped quickly into sleep.
 
 Day 3 coming soon...
+---
 
