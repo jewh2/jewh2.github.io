@@ -70,7 +70,9 @@ The scramble up was tough but by about 1400 we had reached the top of the col an
 ![View looking NW into Al Ghubrah bowl.](https://jewh2.github.io/images/2025oman/P2070016.JPG)
 *View looking north west from the top of the ridge into Al Ghubrah bowl. Omani owl country.*
 
+Now began our descent into Al Ghubrah to Hadash. This is where I first realised that John is the real deal. In his book he describes the route as having 'some exposure'. I would describe this route as 'very exposed'. The route to Hadash 
 
+I have to say this is one of the most fun scrambling routes I've ever done, and would love to do it again, but only not with a large trekking rucksack full of nine days of food! The
 
 Day 3 coming soon...
 
