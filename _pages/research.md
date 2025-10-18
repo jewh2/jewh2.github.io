@@ -4,7 +4,7 @@ permalink: /research/
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /research/
+  - /research
   - /research.html
 ---
 Living things strike a balance between being both robust and flexible. To survive, living systems have to be robust against perturbations from their environment, and against mutation, as most mutations are deleterious. Simultaneously, for life to survive its changing environment, it must be capable of changing and evolving. I find the balance between these seemingly contradictory things very beautiful, and I research how organisms achieve this balance, and how it arises in evolution.
