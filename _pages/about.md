@@ -19,7 +19,7 @@ Embryos, besides being beautiful in their own right, exhibit all of the above pr
 
 It is largely unknown how this balance is achieved but it is thought to be an emergent property of the complex dynamical system that is embryonic development. In my research I use a combination of mathematics and experiments to understand this system, and explain the evolution of properties like robustness and evolvability.
 
-Flies and Cichlids
+Flies and Cichlids 🪰🐠
 ---
 
 As of October 2025 I am now working in Dr Erik Clark's group in the Department of Genetics at the University of Cambridge. Here I am studying the embryos of the fruit fly _Drosophila melanogaster_, to understand how embryos buffer development against natural variation in the size of the egg. Over the course of this project I hope to work on other diptera, such as the Psychodid _Clogmia albipunctata_, the mosquito _Anopheles gambiae_, and other interesting species in the _Drosophila_ genus.
