@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -20,8 +20,15 @@ Education
 * DPhil Zoology, Merton College, University of Oxford (2020-2025)
 * BSc (Hons) Biology and Mathematics, University of St Andrews (2016-2020)
 
-Scholarships & Awards
+Training
 ---
+* MBL Embryology course, Woods Hole, MA (2024)
+
+Awards & Funding
+---
+* NERC Doctoral Training Studentship (2020-2024)
+* Oxford University Press Achievement in Biosciences Prize, University of St Andrews (2020)
+* Runner-up, Gilbert White Youth Award (2016)
 
 Publications
 ---
