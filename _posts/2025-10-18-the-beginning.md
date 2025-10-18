@@ -1,6 +1,6 @@
 ---
 title: 'The beginning...'
-date: 2025-10-18
+date: 2025-10-17
 permalink: /posts/
 tags:
   - init
