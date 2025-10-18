@@ -11,7 +11,7 @@ Living things strike a balance between being both robust and flexible. To surviv
 
 Embryos and Mathematics
 ---
-Embryos, besides being beautiful in their own right, exhibit all of the above properties, and hold an important place within evolutionary biology. Embryos translate genetic and environmental information into the structures and colours that make an organism's body. The way in which the embryo does this has to buffer against noise from the environment and mutation, but also be capable of changing in evolution to make new structures and patterns. 
+Embryos, besides being interesting in their own right, exhibit all of the above properties, and hold an important place within evolutionary biology. Embryos translate genetic and environmental information into the structures and colours that make an organism's body. The way in which the embryo does this has to buffer against noise from the environment and mutation, but also be capable of changing in evolution to make new structures and patterns. 
 
 It is largely unknown how this balance is achieved but it is thought to be an emergent property of the complex dynamical system that is embryonic development. In my research I use a combination of mathematics and experiments to understand this system, and explain the evolution of properties like robustness and evolvability.
 
