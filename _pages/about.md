@@ -10,8 +10,6 @@ redirect_from:
 
 Hello and welcome to my website. I am a developmental biologist currently working at the University of Cambridge. Here you will be able to find information about my research and my personal interests.
 
-Contact
-----
 You can contact me about anything via email at jh2046[at]cam.ac.uk.
 
 <!-- A data-driven personal website
