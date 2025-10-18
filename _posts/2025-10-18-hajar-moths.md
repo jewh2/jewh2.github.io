@@ -24,7 +24,17 @@ The Hajar mountains are a 700 km long range of mountains and hills in the north 
 
 Due to their altitude and proximity to the coast the Jebel Akhdar mountains are much more verdant than the rest of northern Oman (Jebel Akhdar meaning literally 'green mountain'), and in some places support a unique open woodland habitat dominated by _Dodonaea_, _Olea_, and the beautiful Pashtun Juniper _Juniperus seravschanica_.
 
-Due to their remoteness [little is known about the insect life in these mountains](https://doi.org/10.1080/00222933.2019.1611969), but the birdlife is distinctly south-central asian in flavour, with Persian wheatear _Oenanthe chrysopygia_, Plain leaf warbler _Phylloscopus neglectus_, and Ménétries's warbler _Curruca mystacea_ all being common wintering species. The Jebel Akhdar range is perhaps best-known in wildlife circles for being the premier site to see Omani owl _Strix butleri_
+Due to their remoteness little is known about the insect fauna in these mountains (for a survey see [Monks _et al_.](https://doi.org/10.1080/00222933.2019.1611969)), but the birdlife is distinctly south-central asian in flavour, with Persian wheatear _Oenanthe chrysopygia_, Plain leaf warbler _Phylloscopus neglectus_, and Ménétries's warbler _Curruca mystacea_ all being common wintering species.
+
+The Plan
+---
+
+Released in print in 2019, Mr Edwards (hereafter referred to as John) has lain out a route for a 200 km traverse of the Jebel Akhdar range, using ancient man- and donkey-tracks for passage of man and beast between the mountain villages. Despite the mountains being very arid, such a traverse is made possible by a network of water sources along the route. Many of these sources are Aflaj - remarkable networks of water channels draining from mountain acquifers, channelling water into shaded storage pools and into fields. Others are more primal, and may simply be a large bucket positioned underneath a cave drip, storing water for thirsty travellers.
+
+![Aflaj - an irrigation/drinking water channel.](https://jewh2.github.io/images/2025oman/1000027364.jpg)
+*The Aflaj in Misfah al Abriyyn. Not shown are the shoals of Killifish that made this tiny channel their home.*
+
+I was particularly excited by this because the Jebel Akhdar range is known for being the premier site to see Omani owl _Strix butleri_. However, most of the visiting birders only visiting two well-known and car-accessible wadis looking for this species. As far as I could tell online, no-one had looked for this bird higher up in the Hajar before, where given the 
 
 The traverse takes about two weeks and Mr Edwards (hereafter referred to as John) recommends undertaking the walk in February, to maximise daylight hours while minimising rainfall and excessive heat. Following John's recommendation, a trip was arranged for February 2025 between Frederic, myself, and Frederic's friend Lukas.
 
