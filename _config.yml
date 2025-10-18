@@ -86,7 +86,7 @@ author:
   location         : "Cambridge, UK"
   employer         :
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=U_HrlkQAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=U_HrlkQAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-9603-3410"
+  orcid            : # "http://orcid.org/0000-0001-9603-3410"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
