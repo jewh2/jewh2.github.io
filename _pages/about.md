@@ -22,7 +22,7 @@ It is largely unknown how this balance is achieved but it is thought to be an em
 Flies and Cichlids 🪰🐠
 ---
 
-As of October 2025 I am now working in Dr Erik Clark's group in the Department of Genetics at the University of Cambridge. Here I am studying the embryos of the fruit fly _Drosophila melanogaster_, to understand how embryos buffer development against natural variation in the size of the egg. Over the course of this project I hope to work on other diptera, such as the Psychodid _Clogmia albipunctata_, the mosquito _Anopheles gambiae_, and other interesting species in the _Drosophila_ genus.
+As of October 2025 I am now working in Dr Erik Clark's group in the Department of Genetics at the University of Cambridge. Here I am studying the embryos of the fruit fly _Drosophila melanogaster_, to understand how embryos buffer development against natural variation in the size of the egg. Over the course of this project I hope to work on other diptera, such as the psychodid _Clogmia albipunctata_, the mosquito _Anopheles gambiae_, and other interesting species in the _Drosophila_ genus.
 
 Before moving to Cambridge I did a DPhil at the University of Oxford studying the embryonic development of the Lake Malawi cichlids _Astatotilapia calliptera_ and _Rhamphochromis_ sp. 'chilingali'. Here I used experiments in these fish and theory to understand why vertebral number is capable of evolving rapidly.
 
