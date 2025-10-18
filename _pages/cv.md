@@ -22,7 +22,7 @@ Education 🎓
 
 Training
 ---
-* MBL Embryology course, Woods Hole, MA (2024)
+* Embryology course, Marine Biological Laboratory (2024)
 
 Awards & Funding
 ---
