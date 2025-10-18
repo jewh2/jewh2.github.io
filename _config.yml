@@ -11,9 +11,9 @@ title                    : "jewh.github.io"
 title_separator          : "-"
 name                     : &name "James Hammond"
 description              : &description "Personal website of James Hammond."
-url                      : https://jewh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jewh2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jewh/jewh.github.io"
+repository               : "jewh2/jewh2.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
