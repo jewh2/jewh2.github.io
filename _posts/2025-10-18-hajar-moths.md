@@ -60,7 +60,7 @@ However any boost to morale was soon deflated upon checking my water supply. In 
 
 Frederic and Lukas recognised the seriousness of the situation too, and to prevent us having to spend another night without a water source, they very kindly offered to take some of my luggage with them for this part of the journey, so as to make sure we all got to Hadash that evening. This helped a lot and by about midday we arrived at the base of the final scramble over the ridge to Hadash. By now I had drunk all my water and Frederic and Lukas were kindly sharing their responsibly rationed supplies with me.
 
-However a brief boost to morale was afforded by us reaching a shaded plateau at the base of this scamble, with long flowing grass. The habitat was amazing and can best be described as some sort of _Olea_ woodland-savannah. This would have made for a perfect camp site - as evidenced by a recently used firepit and small shelters constructed by overnighting goatherds. Alas we had to leave this little garden and carry on over the mountain to Hadash.
+However a brief boost to morale was afforded by us reaching a shaded plateau at the base of this scamble, with long flowing chest-height grass. The habitat was amazing and can best be described as some sort of _Olea_ woodland-savannah. This would have made for a perfect camp site - as evidenced by a recently used firepit and small shelters constructed by overnighting goatherds. Alas we had to leave this little eden and carry on over the mountain to Hadash.
 
 ![View from near the top of our scramble, looking down to the savannah plateau.](https://jewh2.github.io/images/2025oman/P2070011.JPG)
 *View looking east from approximately halfway up the final scramble (approx 2000 m). The small savannah plateau can be seen below.*
@@ -70,9 +70,15 @@ The scramble up was tough but by about 1400 we had reached the top of the col an
 ![View looking NW into Al Ghubrah bowl.](https://jewh2.github.io/images/2025oman/P2070016.JPG)
 *View looking north west from the top of the ridge into Al Ghubrah bowl. Omani owl country.*
 
-Now began our descent into Al Ghubrah to Hadash. This is where I first realised that John is the real deal. In his book he describes the route as having 'some exposure'. I would describe this route as 'very exposed'. The route to Hadash 
+Now began our descent into Al Ghubrah to Hadash. This is where I first realised that John is the real deal. In his book he describes the route as having 'some exposure'. I would describe this route as 'very exposed'. The route to Hadash is spectacular and takes you about 2 km along a cliff face, using a path of ledges and gullies. The path is well-marked and well-worn but for much of it there is nothing but air to your side, and a 30+ m drop in places onto the rocks below.
 
-I have to say this is one of the most fun scrambling routes I've ever done, and would love to do it again, but only not with a large trekking rucksack full of nine days of food! The
+Sadly we had run out of water by the time we reached the col and we didn't have time to savour this spectacular route or the views, with only three hours left before sunset. Thirsty we pressed on, and came off the cliff onto the slopes above Hadash - looking delciously green - just as the sun dipped behind the mountains. Headtorches on, we traipsed for about 40 mins through more open _Olea_ woodland down to Hadash.
+
+At Hadash there is a car park for tourists and above it, a flat area perfect for camping. We hastily dumped our packs and we floated down, empty vessels in hand, to the village's Aflaj. Dear reader I hope you never experience the joy we felt to hear running water. Exclaiming 'Alhamdulillah!' we sat down next to the Aflaj and began filtering, treating, and eventually drinking water.
+
+I have to say this is one of the most fun routes I've ever done, and would love to do it again, but not with a large trekking rucksack full of nine days of food! In particular the large pack makes some of the moves on the descent difficult where the path does under an overhang and the pack forces you out towards the precipice.
+
+We went back to camp and ate in the dark, then hastily made our beds and went to sleep. The cliffs around Hadash look perfect Omani owl habitat, but sadly I was too tired to conduct any kind of survey. I slipped quickly into sleep.
 
 Day 3 coming soon...
 
