@@ -44,9 +44,11 @@ It was mid-morning on the 6th of February when we assembled together in Muscat a
 ![The starting point of our Hajar adventure, the wadi entrance at Al Afyah.](https://jewh2.github.io/images/2025oman/P2060003.JPG)
 *The starting point of our Hajar adventure, the wadi entrance at Al Afyah.*
 
-Starting so late in the day we planned to break the first leg of our journey 
+Starting so late in the day we planned to break the first leg of our journey over two days, camping somewhere up our 1400 m ascent to the ridge where we then descend 600 m to the village of Hadash in the spectacular Al Gubbrah bowl. 
 
-Here is where I made a dangerous mistake that affected everyone for the next three days. Having already drunk a lot of water, and already having a very heavy rucksack (25kg+), I only filled up with three litres of water - two litres for this evening and afternoon, 
+Here is where I made a dangerous mistake that affected everyone for the next three days. Having already drunk a lot of water, and already having a very heavy rucksack (25kg+), I only filled up my bottles with three litres of water - two litres for the ascent this evening and afternoon, then a litre for the descent into Hadash. This was absolutely moronic. 
+
+The 28°C heat, weight of my pack, a total lack of sleep on the plane the night before, and generally poor fitness began to compound into fatigue, and after a couple of hours I was badly lagging behind the fit and nimble Frederic and Lukas. As night began to fall 
 
 ![View from near the top of our scramble, looking down to the savannah plateau.](https://jewh2.github.io/images/2025oman/P2060011.JPG)
 
