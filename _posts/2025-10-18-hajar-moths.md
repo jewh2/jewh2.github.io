@@ -17,9 +17,10 @@ In late 2024 my friend Frederic approached me and asked if I wanted to join him 
 The Hajar Mountains
 ---
 
-The Hajar mountains are a 700 km long range of mountains and hills in the north of Oman and the UAE. 
+The Hajar mountains are a 700 km long range of mountains and hills in the north of Oman and the UAE. At its highest point Jebel Shams, the range
 
-
+![View looking east over the Hajar mountains from Jebel Shams at dawn.](https://jewh2.github.io/images/2025oman/1000027521.jpg)
+*View of the Hajar mountains at dawn, looking east from our camp on the flanks of Jebel Shams at approx 2600 m.*
 
 The traverse takes about two weeks and Mr Edwards (hereafter referred to as John) recommends undertaking the walk in February, to maximise daylight hours while minimising rainfall and excessive heat. Following John's recommendation, a trip was arranged for February 2025 between Frederic, myself, and Frederic's friend Lukas.
 
