@@ -1,9 +1,9 @@
 ---
 title: 'The beginning...'
-date: 2025-10-17
-permalink: /posts/coming-soon
+date: 2025-10-18
+permalink: /posts/
 tags:
-  - cool posts
+  - init
 ---
 
 Starting to write the blog now.
