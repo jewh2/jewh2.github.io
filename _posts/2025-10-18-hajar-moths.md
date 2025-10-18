@@ -24,19 +24,17 @@ The Hajar mountains are a 700 km long range of mountains and hills in the north 
 
 Due to their altitude and proximity to the coast the Jebel Akhdar mountains are much more verdant than the rest of northern Oman (Jebel Akhdar meaning literally 'green mountain'), and in some places support a unique open woodland habitat dominated by _Dodonaea_, _Olea_, and the beautiful Pashtun Juniper _Juniperus seravschanica_.
 
-Due to their remoteness little is known about the insect fauna in these mountains (for a survey see [Monks _et al_.](https://doi.org/10.1080/00222933.2019.1611969)), but the birdlife is distinctly south-central asian in flavour, with Persian wheatear _Oenanthe chrysopygia_, Plain leaf warbler _Phylloscopus neglectus_, and Ménétries's warbler _Curruca mystacea_ all being common wintering species.
+Due to their remoteness little is known about the insect fauna in these mountains (for a survey see [Monks _et al_.](https://doi.org/10.1080/00222933.2019.1611969)), but the birdlife is distinctly south-central asian in flavour, with Persian wheatear _Oenanthe chrysopygia_, Plain leaf warbler _Phylloscopus neglectus_, and Ménétries's warbler _Curruca mystacea_ all being common wintering species. The Jebel Akhdar range is perhaps best-known for being the premier site to see Omani owl _Strix butleri_. However, most birders only visit two well-known and car-accessible wadis searching for this species. As far as I could tell from my research, no-one had looked for this bird higher up in the Hajar before, so I was excited to see if I could add new sites for this species. Additionally, using my newly-purchased [LepiLED](https://www.gunnarbrehm.de/en/lepi-led), I was eager to see what moths lurked in the Hajar.
 
-The Plan
+The Route
 ---
 
-Released in print in 2019, Mr Edwards (hereafter referred to as John) has lain out a route for a 200 km traverse of the Jebel Akhdar range, using ancient man- and donkey-tracks for passage of man and beast between the mountain villages. Despite the mountains being very arid, such a traverse is made possible by a network of water sources along the route. Many of these sources are Aflaj - remarkable networks of water channels draining from mountain acquifers, channelling water into shaded storage pools and into fields. Others are more primal, and may simply be a large bucket positioned underneath a cave drip, storing water for thirsty travellers.
+The route for a 200 km traverse of the Jebel Akhdar range was first published in 2019 by John Edwards (hereafter referred to as John), using ancient man- and donkey-tracks for passage of man and beast between the mountain villages. Despite the mountains being very arid, such a traverse is made possible by a network of water sources along the route. Many of these sources are Aflaj - remarkable networks of water channels draining from mountain acquifers, channelling water into shaded storage pools and into fields. Others are more primal, and may simply be a large bucket positioned underneath a cave drip, storing water for thirsty travellers.
 
 ![Aflaj - an irrigation/drinking water channel.](https://jewh2.github.io/images/2025oman/1000027364.jpg)
 *The Aflaj in Misfah al Abriyyn. Not shown are the shoals of Killifish that made this tiny channel their home.*
 
-I was particularly excited by this because the Jebel Akhdar range is known for being the premier site to see Omani owl _Strix butleri_. However, most of the visiting birders only visiting two well-known and car-accessible wadis looking for this species. As far as I could tell online, no-one had looked for this bird higher up in the Hajar before, where given the 
-
-The traverse takes about two weeks and Mr Edwards (hereafter referred to as John) recommends undertaking the walk in February, to maximise daylight hours while minimising rainfall and excessive heat. Following John's recommendation, a trip was arranged for February 2025 between Frederic, myself, and Frederic's friend Lukas.
+The traverse takes about two weeks and John recommends undertaking the walk in February, to maximise daylight hours while minimising rainfall and excessive heat. Not wanting to contradict John's sage advice, a trip was arranged for February 2025 between Frederic, myself, and Frederic's friend Lukas.
 
 Days 1 & 2 - Muscat to Hadash via Al Afyah
 ---
@@ -46,7 +44,9 @@ It was mid-morning on the 6th of February when we assembled together in Muscat a
 ![The starting point of our Hajar adventure, the wadi entrance at Al Afyah.](https://jewh2.github.io/images/2025oman/P2060003.JPG)
 *The starting point of our Hajar adventure, the wadi entrance at Al Afyah.*
 
+Starting so late in the day we planned to break the first leg of our journey 
+
 Here is where I made a dangerous mistake that affected everyone for the next three days. Having already drunk a lot of water, and already having a very heavy rucksack (25kg+), I only filled up with three litres of water - two litres for this evening and afternoon, 
 
-
+![View from near the top of our scramble, looking down to the savannah plateau.](https://jewh2.github.io/images/2025oman/P2060011.JPG)
 
