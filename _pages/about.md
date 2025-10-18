@@ -15,11 +15,20 @@ Living things strike a balance between being both robust and flexible. To surviv
 Embryos and Mathematics
 ---
 
-Embryos, besides being beautiful in their own right, exhibit all of the above properties, and hold an important place within evolutionary biology. 
+Embryos, besides being beautiful in their own right, exhibit all of the above properties, and hold an important place within evolutionary biology. Embryos translate genetic and environmental information into the structures and colours that make an organism's body. The way in which the embryo does this has to buffer against noise from the environment and mutation, but also be capable of changing in evolution to make new structures and patterns. 
+
+It is largely unknown how this balance is achieved but it is thought to be an emergent property of the complex dynamical system that is embryonic development. In my research I use a combination of mathematics and experiments to understand this system, and explain the evolution of properties like robustness and evolvability.
+
+Flies and Cichlids
+---
+
+As of October 2025 I am now working in Dr Erik Clark's group in the Department of Genetics at the University of Cambridge. Here I am studying the embryos of the fruit fly _Drosophila melanogaster_, to understand how embryos buffer development against natural variation in the size of the egg. Over the course of this project I hope to work on other diptera, such as the Psychodid _Clogmia albipunctata_, the mosquito _Anopheles gambiae_, and other interesting species in the _Drosophila_ genus.
+
+Before moving to Cambridge I did a DPhil at the University of Oxford studying the embryonic development of the Lake Malawi cichlids _Astatotilapia calliptera_ and _Rhamphochromis_ sp. 'chilingali'. Here I used experiments in these fish and theory to understand why vertebral number is capable of evolving rapidly.
 
 Contact
 ----
-You can contact me via email at jh2046[at]cam.ac.uk, and follow me on Bluesky at [@jamesehammond.bsky.social](https://bsky.app/profile/jamesehammond.bsky.social).
+You can contact me via email at jh2046[at]cam.ac.uk.
 
 <!-- A data-driven personal website
 ======
